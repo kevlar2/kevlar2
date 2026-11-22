@@ -74,6 +74,14 @@
 
 ---
 
+### 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/3a8d9c57-d6d4-4ad2-aa61-1373416db1f7/public_url"><img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20(004)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate (004)" /></a>
+</p>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
